@@ -3,7 +3,8 @@
 An app that pays you to maintain your habits! Watch ads as you do your habits and get paid in gift cards.  
 
 Built in python with kivy for planned android implementation. App not tested in Android environment, but works perfectly fine on desktop.  
-Web page components programmed with HTML, Javascript, and PHP. Online database made in mySQL.
+Built on **Kivy version 2.3.1,** but might work with newer or slightly older versions.  
+Web page components programmed with HTML, Javascript, and PHP. Online database made in mySQL.  
 
 ## Current features:
 * habit tracking and storage on your local device with SQLite files
