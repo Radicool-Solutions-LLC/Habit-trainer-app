@@ -1,6 +1,6 @@
 # Habit trainer app (**BETA**)
-(**NOTE: payment and habit credit system not properly implemented yet**)
-An app that pays you to maintain your habits! Watch ads as you do your habits and get paid in gift cards.
+(**NOTE: payment and habit credit system not properly implemented yet**)  
+An app that pays you to maintain your habits! Watch ads as you do your habits and get paid in gift cards.  
 
 Built in python with kivy for planned android implementation. App not tested in Android environment, but works perfectly fine on desktop.
 Web page components programmed with HTML, Javascript, and PHP. Online database made in mySQL.
